@@ -1,7 +1,7 @@
 
 let nm = 'android'
 // nm = 10
-
+let nms ='sanika'
 let num: number = 10
 let isCv: boolean = false
 let weight: number = 456.9
